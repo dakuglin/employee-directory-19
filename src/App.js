@@ -4,9 +4,6 @@ import Main from "./components/Main"
 import Jumbotron from "./components/Jumbotron";
 
 
-// import Table from "./components/DataTable";
-
-
 
 function App() {
   return (
