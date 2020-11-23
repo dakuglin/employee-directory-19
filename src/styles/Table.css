@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+}
+
+table {
+    width: 85%;
+    margin-left:auto; 
+    margin-right:auto;
+    font-size: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 15px;   
+}
+
+th {
+    text-align:center;
+}
+
+.form-inline {  
+    padding-left:145px;
+}
+
+span {
+    cursor: pointer;
+    text-decoration: underline;
+}
